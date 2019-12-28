@@ -1,2 +1,2 @@
-# hello-world
-simple project for brain storm
+# simple project for brain storm
+some idea?
